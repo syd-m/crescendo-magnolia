@@ -1,0 +1,6 @@
+bootstrap.config.on.startup=true
+
+magnolia.develop=true
+magnolia.home=/Users/USER/Magnolia-Repositories/crescendo-magnolia-challenge
+magnolia.resources.dir=/Users/paulgutekunst/IntelliJ/crescendo-magnolia-challenge/light-modules
+magnolia.update.auto=true

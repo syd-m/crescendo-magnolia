@@ -1,0 +1,3 @@
+renderType: freemarker
+title: Contact Form
+templateScript: /crescendo-magnolia-challenge/templates/components/contact/contactForm.ftl
